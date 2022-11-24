@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ChatBot.iml" filepath="$PROJECT_DIR$/.idea/ChatBot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Deepfake/.idea/Deepfake.iml" filepath="$PROJECT_DIR$/../Deepfake/.idea/Deepfake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lab 5/.idea/Lab 5.iml" filepath="$PROJECT_DIR$/../Lab 5/.idea/Lab 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Lecture/.idea/Lecture.iml" filepath="$PROJECT_DIR$/../Lecture/.idea/Lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OOP/.idea/OOP.iml" filepath="$PROJECT_DIR$/../OOP/.idea/OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tutorial/.idea/Tutorial.iml" filepath="$PROJECT_DIR$/../Tutorial/.idea/Tutorial.iml" />
+      <module fileurl="file://$USER_HOME$/pytorch-chatbot/.idea/pytorch-chatbot.iml" filepath="$USER_HOME$/pytorch-chatbot/.idea/pytorch-chatbot.iml" />
+    </modules>
+  </component>
+</project>
